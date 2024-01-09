@@ -1,4 +1,4 @@
-# avaScript - Objects, Scopes and Closures
+# JavaScript - Objects, Scopes and Closures
 
 Welcome to this concise guide that delves into various aspects of JavaScript, showcasing its powerful features and concepts.
 
