@@ -5,6 +5,7 @@ Displays information about the response body.
 """
 import urllib.request
 
+
 def fetch_and_display_status(url):
     """function to fetch and displau status"""
 
