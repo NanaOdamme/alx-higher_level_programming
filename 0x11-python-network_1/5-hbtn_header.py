@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-Sends a request to a given URL and displays the value of X-Request-Id from the header.
+Sends a request to a given URL and displays the
+value of X-Request-Id from the header.
 Usage: ./5-hbtn_header.py <URL>
 """
 import sys
@@ -17,4 +18,3 @@ if __name__ == "__main__":
 
     if x_request_id:
         print(x_request_id)
-

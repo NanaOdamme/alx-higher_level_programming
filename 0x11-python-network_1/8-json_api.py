@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 """
-Sends a POST request to http://0.0.0.0:5000/search_user with a letter as a parameter.
-Processes the response and displays the id and name if the response is valid JSON and not empty.
+Sends a POST request to http://0.0.0.0:5000/search_user
+with a letter as a parameter.
+Processes the response and displays the id and name if
+the response is valid JSON and not empty.
 Displays an appropriate message for invalid JSON or empty response.
 Usage: ./8-json_api.py [letter]
 """

@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-Uses Basic Authentication with a personal access token to access GitHub API and display user id.
+Uses Basic Authentication with a personal access token
+to access GitHub API and display user id.
 Usage: ./10-my_github.py <username> <token>
 """
 import sys
